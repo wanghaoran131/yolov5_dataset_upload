@@ -1,0 +1,175 @@
+names:
+- acorn
+- axe
+- backpack
+- badger
+- bag
+- barrel
+- basket
+- bear
+- bed
+- bee
+- bell
+- bench
+- bird
+- birdcage
+- boar
+- boat
+- book
+- bottle
+- bow
+- bowl
+- box
+- bridge
+- broom
+- brush
+- bucket
+- building
+- butterfly
+- camel
+- campfire
+- candle
+- cane
+- cannon
+- car
+- cat
+- cello
+- chair
+- clock
+- couch
+- cow
+- cradle
+- crown
+- cup
+- curtain
+- deer
+- dining table
+- dog
+- doghouse
+- donkey
+- door
+- dragon
+- drum
+- egg
+- elephant
+- ermine
+- feather
+- female
+- fence
+- fireplace
+- fish
+- fishing rod
+- flag
+- flower
+- flute
+- fox
+- frog
+- glasses
+- globe
+- goat
+- gun
+- hammer
+- hat
+- hedgehog
+- helmet
+- horse
+- hot air balloon
+- inkpot
+- insect
+- jackal
+- jar
+- jug
+- kettle
+- kite
+- knife
+- ladder
+- lamp
+- lifebuoy
+- lion
+- lizard
+- lobster
+- male
+- map
+- marmot
+- melon
+- monkey
+- moon
+- music sheet
+- nest
+- net
+- painting stand
+- painting
+- pan
+- pear
+- pen
+- penguin
+- piano
+- pickaxe
+- pig
+- pineapple
+- pipe
+- plant
+- plate
+- pot
+- potted plant
+- rabbit
+- rake
+- rat
+- rhino
+- sausage
+- saw
+- scale
+- scissors
+- scorpion
+- seal
+- shark
+- sheep
+- shield
+- shovel
+- sieve
+- skate
+- snail
+- snake
+- spear
+- spoon
+- sports ball
+- squirrel
+- star
+- stool
+- stroller
+- suitcase
+- sun
+- sunflower
+- sword
+- teaching board
+- teapot
+- tent
+- tie
+- tiger
+- train
+- tree
+- trumpet
+- tub
+- turtle
+- umbrella
+- vase
+- violin
+- wagon
+- walnut
+- weight
+- whip
+- windmill
+- window
+- wine glass
+- wolf
+- zebra
+nc: 164
+roboflow:
+  license: CC BY 4.0
+  project: children_books_namechanged
+  url: https://universe.roboflow.com/childrenbookexperiments-j8ekf/children_books_namechanged/dataset/8
+  version: 8
+  workspace: childrenbookexperiments-j8ekf
+test: /tudelft.net/staff-umbrella/StudentsCVlab/haoranwang/children_book_experiments/yolov5_dataset_upload/../datasets/2.3_Dataset/test/images
+train: wandb-artifact://children_books/train
+val: wandb-artifact://children_books/val
